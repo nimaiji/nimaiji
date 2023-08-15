@@ -1,4 +1,5 @@
 ### Hi there 👋
+🔭 I’m currently working on Sparrow
 
 <!--
 **nimaiji/nimaiji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Nima's github stats](https://github-readme-stats.vercel.app/api?username=nimaiji&show_icons=true&icon_color=fff&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true")](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Nima's github stats](https://github-readme-stats.vercel.app/api?username=nimaiji&show_icons=true&icon_color=fff&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true")](https://github.com/anuraghazra/github-readme-stats) -->
 
 
